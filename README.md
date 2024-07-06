@@ -10,7 +10,7 @@
   
 ![image](https://github.com/minji1025/Parking_Guidance_System/assets/163821451/747aba6f-9ef2-4a46-80aa-cff08d77af5e)
 
-##Project Goal
+## Project Goal
 
 ![image](https://github.com/minji1025/Parking_Guidance_System/assets/163821451/4a5e7e23-8e0a-4acc-8bfe-b9931d8323c9)
 
